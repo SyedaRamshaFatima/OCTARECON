@@ -34,5 +34,11 @@ Menu Display: Users are greeted with an ASCII art banner and a list of tool opti
 Input Prompt: Enter the domain name and select desired tools via letter codes (e.g., I, C, W).
 Execution: Selected tools are run one-by-one or all together if A is selected.
 Logging: Output is displayed on the terminal and written to finalresult.txt.
-
 Timing: Total execution time is calculated and shown.
+
+Future Improvements:
+
+Add DNS enumeration and vulnerability scanners.
+Build a GUI for ease of use.
+Enable parallel execution to improve speed.
+Integrate threat intelligence APIs for real-time insights.
